@@ -1,6 +1,6 @@
 # Color_Recognition
 
-This project captures live video from your webcam and detects the **basic color** at the center of the screen in real-time. It draws a green square at the center, analyzes the average color inside, and shows the recognized color name and RGB values.
+This project captures live video from your video and detects the **basic color** at the center of the screen in real-time. It draws a green square at the center, analyzes the average color inside, and shows the recognized color name and RGB values.
 
 ---
 
